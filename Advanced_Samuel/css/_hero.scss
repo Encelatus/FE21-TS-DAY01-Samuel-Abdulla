@@ -1,0 +1,14 @@
+.heroimg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.pexels.com/photos/3252051/pexels-photo-3252051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.herotext {
+  text-align: center;
+  position: relative;
+  top: 9.5vh;
+  color: white;
+}
