@@ -4,6 +4,7 @@ for (let i = 0; i < nameList.length; i++) {
     document.write(i);
 
 }
+
 for (let i = 0; i < nameList.length; i++) {
     document.write(`<br>`+ nameList[i]);
 

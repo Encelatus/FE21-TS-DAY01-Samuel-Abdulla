@@ -21,5 +21,3 @@ function lastName () {
     console.log(myNames[0].lName)
 };
 setTimeout(lastName, 5000);
-  
-
